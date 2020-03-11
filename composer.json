@@ -5,6 +5,7 @@
     "keywords": ["wordpress","wpautop"],
     "homepage": "https://github.com/itsdanreed",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Dan Reed",
