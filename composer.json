@@ -1,0 +1,21 @@
+{
+    "name": "itsdanreed/wpautop",
+    "type": "library",
+    "description": "Expose the WordPress wpautop function outside of WordPress.",
+    "keywords": ["wordpress","wpautop"],
+    "homepage": "https://github.com/itsdanreed",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Reed",
+            "email": "itsdanreed@gmail.com",
+            "homepage": "https://github.com/itsdanreed",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/wpautop.php"
+        ]
+    }
+}
